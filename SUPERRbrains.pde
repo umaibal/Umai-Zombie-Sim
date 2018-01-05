@@ -1,6 +1,5 @@
 /* Umai Balendra 
- module 6.18 
- SUPERR Brains v2 Oct 30*/
+ SUPERR Brains Oct 30*/
 
 int totalSurvivors = 15;
 
@@ -32,9 +31,6 @@ color[] legend = {
   color(240, 0, 0), //injured is red
   color(240, 197, 116), //infected is yellow
 }; //color legend for survivors
-
-//Survivor firstSurv = new Survivor();
-//Survivor secondSurv = new Survivor();
 
 void setup()
 {
